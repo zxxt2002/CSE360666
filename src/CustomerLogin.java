@@ -56,7 +56,7 @@ public CustomerLogin() {
         Customer.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         Customer.getContentPane().setLayout(null);
 
-        JLabel lblWelcome = new JLabel("Chilema Restaurant, your best choice!");
+        JLabel lblWelcome = new JLabel("Welcome To New Asian Restaurant");
         lblWelcome.setForeground(Color.ORANGE);
         lblWelcome.setBounds(108, 21, 229, 39);
         Customer.getContentPane().add(lblWelcome);
